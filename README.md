@@ -1,4 +1,16 @@
-## Hi there 👋
+## Who am I?
+
+Hi! My name is Manal, I'm a first-year computer science student at TCU, Class of 2030! 
+
+## What I'm curious about:
+
+I'm particularly interested in software engineering and cybersecurity!
+
+## What I want to build:
+
+I would like to build an interactive paint-by-number game!
+
+
 
 <!--
 **manaladil/manaladil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
